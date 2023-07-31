@@ -1,0 +1,43 @@
+*{
+   font-display: justify;
+
+    
+}
+h1{
+    font-style: italic;
+    color: rgb(72, 24, 117);
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Satisfy&display=swap" rel="stylesheet">
+    
+    
+}
+h4{
+    color:  #1d4e7f    ;
+}
+
+*{
+    background-color: rgb(247, 239, 229);
+}
+h3{
+    color:  #1d4e7f    ;
+    
+}
+
+button
+{
+    background: rgb(95, 58, 240);
+    color: aliceblue;
+    height: 50px;
+    width: 250px ;
+    border-radius: 20px;
+}
+
+input{
+    border-radius: 20px;
+height: 30px;
+width: 200px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
